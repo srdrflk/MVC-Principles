@@ -1,0 +1,47 @@
+﻿@model ProductEditViewModel
+@{
+    ViewData["Title"] = Model.ProductID == 0 ? "Create Product" : "Edit Product";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="ProductID" />
+
+    <div class="form-group">
+        <label asp-for="ProductName"></label>
+        <input asp-for="ProductName" class="form-control" />
+        <span asp-validation-for="ProductName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CategoryID"></label>
+        <select asp-for="CategoryID" asp-items="@(new SelectList(Model.AvailableCategories, "CategoryID", "CategoryName"))" class="form-control">
+            <option value="">-- Select Category --</option>
+        </select>
+        <span asp-validation-for="CategoryID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SupplierID"></label>
+        <select asp-for="SupplierID" asp-items="@(new SelectList(Model.AvailableSuppliers, "SupplierID", "CompanyName"))" class="form-control">
+            <option value="">-- Select Supplier --</option>
+        </select>
+    </div>
+
+    <!-- Add other fields (UnitPrice, UnitsInStock, etc.) following the same pattern -->
+
+    <div class="form-group form-check">
+        <input asp-for="Discontinued" class="form-check-input" />
+        <label asp-for="Discontinued" class="form-check-label"></label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Products" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

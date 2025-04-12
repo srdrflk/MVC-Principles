@@ -1,0 +1,54 @@
+﻿@model List<MVCPrinciples.Models.Product>
+@{
+    ViewData["Title"] = "Products";
+}
+
+@{
+    var maxToShow = ViewBag.MaxProductsToShow as int?;
+}
+@if (maxToShow > 0)
+{
+    <div class="alert alert-info">
+        Showing first @maxToShow products. Configure in appsettings.json to change.
+    </div>
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Supplier</th>
+            <th>Category</th>
+            <th>Quantity Per Unit</th>
+            <th>Unit Price</th>
+            <th>Units In Stock</th>
+            <th>Units On Order</th>
+            <th>Reorder Level</th>
+            <th>Discontinued</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductID</td>
+                <td>@product.ProductName</td>
+                <td>@product.Supplier?.CompanyName</td>
+                <td>@product.Category?.CategoryName</td>
+                <td>@product.QuantityPerUnit</td>
+                <td>@product.UnitPrice?.ToString("C")</td>
+                <td>@product.UnitsInStock</td>
+                <td>@product.UnitsOnOrder</td>
+                <td>@product.ReorderLevel</td>
+                <td>@(product.Discontinued ? "Yes" : "No")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@product.ProductID" class="btn btn-sm btn-warning">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
