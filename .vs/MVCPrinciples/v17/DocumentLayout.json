@@ -3,79 +3,83 @@
   "WorkspaceRootPath": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\models\\producteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\producteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\mvcprinciples.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\mvcprinciples.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\models\\producteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\producteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\mvcprinciples\\mvcprinciples\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\mvcprinciples\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B1906B1-F9D1-4B5D-9288-434A16E8AE48}|MVCPrinciples\\MVCPrinciples.csproj|solutionrelative:mvcprinciples\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,33 +122,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\appsettings.json",
               "RelativeDocumentMoniker": "MVCPrinciples\\appsettings.json",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\appsettings.json",
               "RelativeToolTip": "MVCPrinciples\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-12T14:45:34.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:45:34.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Data\\NorthwindContext.cs",
-              "RelativeDocumentMoniker": "MVCPrinciples\\Data\\NorthwindContext.cs",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Data\\NorthwindContext.cs",
-              "RelativeToolTip": "MVCPrinciples\\Data\\NorthwindContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:32:56.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MVCPrinciples\\Models\\Product.cs",
@@ -152,12 +142,11 @@
               "RelativeToolTip": "MVCPrinciples\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:20:22.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:20:22.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "MVCPrinciples\\Models\\Supplier.cs",
@@ -165,12 +154,11 @@
               "RelativeToolTip": "MVCPrinciples\\Models\\Supplier.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:19:58.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:19:58.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MVCPrinciples\\Models\\Category.cs",
@@ -178,12 +166,11 @@
               "RelativeToolTip": "MVCPrinciples\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:19:09.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:19:09.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "MVCPrinciples\\Views\\Shared\\Error.cshtml",
@@ -191,12 +178,11 @@
               "RelativeToolTip": "MVCPrinciples\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:13:02.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:13:02.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MVCPrinciples\\Views\\_ViewStart.cshtml",
@@ -204,12 +190,11 @@
               "RelativeToolTip": "MVCPrinciples\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:12:56.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:12:56.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCPrinciples\\Controllers\\HomeController.cs",
@@ -217,25 +202,24 @@
               "RelativeToolTip": "MVCPrinciples\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAFEAAAAAAAAAAAAuwGkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:09:00.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:09:00.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Products.cshtml",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Products.cshtml",
               "RelativeDocumentMoniker": "MVCPrinciples\\Views\\Home\\Products.cshtml",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Products.cshtml",
               "RelativeToolTip": "MVCPrinciples\\Views\\Home\\Products.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAnAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-12T14:40:26.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCPrinciples\\Views\\Home\\Index.cshtml",
@@ -243,51 +227,11 @@
               "RelativeToolTip": "MVCPrinciples\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:10:11.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:10:11.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MVCPrinciples\\Views\\Home\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Edit.cshtml",
-              "RelativeToolTip": "MVCPrinciples\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:59:00.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductEditViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\ProductEditViewModel.cs",
-              "RelativeDocumentMoniker": "MVCPrinciples\\Models\\ProductEditViewModel.cs",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\ProductEditViewModel.cs",
-              "RelativeToolTip": "MVCPrinciples\\Models\\ProductEditViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:56:56.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\AppSettings.cs",
-              "RelativeDocumentMoniker": "MVCPrinciples\\Models\\AppSettings.cs",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\AppSettings.cs",
-              "RelativeToolTip": "MVCPrinciples\\Models\\AppSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:47:28.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Program.cs",
               "RelativeDocumentMoniker": "MVCPrinciples\\Program.cs",
@@ -295,25 +239,83 @@
               "RelativeToolTip": "MVCPrinciples\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:02:02.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:02:02.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Categories.cshtml",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Categories.cshtml",
               "RelativeDocumentMoniker": "MVCPrinciples\\Views\\Home\\Categories.cshtml",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Categories.cshtml",
               "RelativeToolTip": "MVCPrinciples\\Views\\Home\\Categories.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-12T14:39:27.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "MVCPrinciples",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\MVCPrinciples.csproj",
+              "RelativeDocumentMoniker": "MVCPrinciples\\MVCPrinciples.csproj",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\MVCPrinciples.csproj",
+              "RelativeToolTip": "MVCPrinciples\\MVCPrinciples.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T19:39:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Data\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "MVCPrinciples\\Data\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Data\\NorthwindContext.cs",
+              "RelativeToolTip": "MVCPrinciples\\Data\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:32:56.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCPrinciples\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "MVCPrinciples\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T14:59:00.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\ProductEditViewModel.cs",
+              "RelativeDocumentMoniker": "MVCPrinciples\\Models\\ProductEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\ProductEditViewModel.cs",
+              "RelativeToolTip": "MVCPrinciples\\Models\\ProductEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:56:56.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "MVCPrinciples\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\AppSettings.cs",
+              "RelativeToolTip": "MVCPrinciples\\Models\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:47:28.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCPrinciples\\Views\\Shared\\_Layout.cshtml",
@@ -321,12 +323,11 @@
               "RelativeToolTip": "MVCPrinciples\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:41:30.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:41:30.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVCPrinciples\\Views\\_ViewImports.cshtml",
@@ -334,12 +335,11 @@
               "RelativeToolTip": "MVCPrinciples\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:10:31.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:10:31.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MVCPrinciples\\Views\\Home\\Privacy.cshtml",
@@ -347,12 +347,11 @@
               "RelativeToolTip": "MVCPrinciples\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:10:25.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:10:25.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\MVCPrinciples\\MVCPrinciples\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MVCPrinciples\\Models\\ErrorViewModel.cs",
@@ -360,8 +359,7 @@
               "RelativeToolTip": "MVCPrinciples\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:09:50.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T14:09:50.004Z"
             }
           ]
         }

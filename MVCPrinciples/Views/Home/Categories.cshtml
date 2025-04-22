@@ -1,5 +1,6 @@
 ﻿@model List<MVCPrinciples.Models.Category>
 @{
+    var categories = Model;
     ViewData["Title"] = "Categories";
 }
 
@@ -14,7 +15,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var category in Model)
+        @foreach (var category in categories)
         {
             <tr>
                 <td>@category.CategoryID</td>
